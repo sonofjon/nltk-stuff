@@ -1,0 +1,2 @@
+# Location for NLTK data
+export NLTK_DATA=~/data/nltk_data
